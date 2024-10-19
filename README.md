@@ -1,10 +1,21 @@
-![image](https://github.com/user-attachments/assets/399b9b6c-1605-4142-879a-9ddc6f39fb18)
+
 # 📟 Calculator Web App
 
-![Calculator Screenshot](https://via.placeholder.com/800x400) 
+![Calculator Web App](https://img.shields.io/badge/Project-Calculator%20Web%20App-brightgreen)
+ ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 <!-- You can replace the link with an actual screenshot of your app -->
 
 A sleek, responsive **Calculator Web App** built with HTML, CSS, and JavaScript. The app allows users to perform basic arithmetic operations with a clean and interactive user interface.
+
+## 🚀 [Live Demo](#) 
+
+Check out the live version of this project [here](https://nilesh0509.github.io/Calculator/) .
+
+## 📸 Preview
+
+![Calculator Web App](https://github.com/user-attachments/assets/399b9b6c-1605-4142-879a-9ddc6f39fb18)
+*Preview of the Calculator Web App in action*
 
 ---
 
@@ -43,3 +54,12 @@ calculator/
 │
 ├── index.html          # Main HTML file
 └── README.md           # Project's README file
+
+
+```
+---
+**🔗 Connect with Me**
+
+GitHub: [Nilesh0509](https://github.com/nilesh0509/)
+
+LinkedIn: [Nilesh](https://www.linkedin.com/in/nilesh-undefined-59a7a3272/)
